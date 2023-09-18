@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dff0154-3078-4a12-90cc-7975d197e373" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ls1ex05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3dff0154-3078-4a12-90cc-7975d197e373" name="Changes" comment="close">
+      <change afterPath="$PROJECT_DIR$/src/ls1ex06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +27,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2UtYDyZeNdTq8xS3Fs8deShvEa8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +52,28 @@
       <option name="presentableId" value="Default" />
       <updated>1693760229087</updated>
     </task>
+    <task id="LOCAL-00001" summary="fim">
+      <option name="closed" value="true" />
+      <created>1695045916700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695045916700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="close">
+      <option name="closed" value="true" />
+      <created>1695046445084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695046445084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fim" />
+    <MESSAGE value="close" />
+    <option name="LAST_COMMIT_MESSAGE" value="close" />
   </component>
 </project>
