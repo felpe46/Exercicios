@@ -12,5 +12,7 @@ public class ls1ex05 {
         SmUsuario = sc.nextDouble();
 
         System.out.printf("Você ganha o equivalente a %.2f salarios minimos.", SmUsuario / Sm);
+
+        sc.close();
     }
 }
