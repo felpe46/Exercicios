@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dff0154-3078-4a12-90cc-7975d197e373" name="Changes" comment="close">
-      <change afterPath="$PROJECT_DIR$/src/ls1ex06.java" afterDir="false" />
+    <list default="true" id="3dff0154-3078-4a12-90cc-7975d197e373" name="Changes" comment="Exercicios #1 #2">
+      <change afterPath="$PROJECT_DIR$/lista1/lista1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista2/lista2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ls1ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ls1ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ls1ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ls1ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ls1ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ls1ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7ffa0141-f6e9-4c62-ac41-7a9a53b87cdb" />
+        <option name="url" value="https://github.com/felpe46/Exercicios.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -38,11 +63,19 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/passo/IdeaProjects/exercicios/src/Main.java&quot;
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/passo/IdeaProjects/exercicios/lista1/src/Main.java&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\passo\IdeaProjects\exercicios" />
+      <recent name="C:\Users\passo\IdeaProjects\exercicios\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,12 +101,31 @@
       <option name="project" value="LOCAL" />
       <updated>1695046445084</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercicio#6">
+      <option name="closed" value="true" />
+      <created>1695047904442</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695047904442</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercicios #2 #3 #4">
+      <option name="closed" value="true" />
+      <created>1695050048456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695050048456</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fim" />
     <MESSAGE value="close" />
-    <option name="LAST_COMMIT_MESSAGE" value="close" />
+    <MESSAGE value="Exercicio#6" />
+    <MESSAGE value="Exercicios #2 #3 #4" />
+    <MESSAGE value="Exercicios #1 #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios #1 #2" />
   </component>
 </project>
