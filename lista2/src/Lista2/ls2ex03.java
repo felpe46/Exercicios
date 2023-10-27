@@ -1,4 +1,5 @@
-package Lista2;//Faça um algoritmo para receber um número qualquer e informar na tela se é par ou ímpar.
+package Lista2;
+//Faça um algoritmo para receber um número qualquer e informar na tela se é par ou ímpar.
 
 import java.util.Scanner;
 
