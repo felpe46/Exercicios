@@ -4,22 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dff0154-3078-4a12-90cc-7975d197e373" name="Changes" comment="Exercicios #1 #2">
-      <change afterPath="$PROJECT_DIR$/lista1/lista1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista2/lista2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista2/src/ls2ex05.java" afterDir="false" />
+    <list default="true" id="3dff0154-3078-4a12-90cc-7975d197e373" name="Changes" comment="alterações">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/src/ls2ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/src/ls2ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/src/ls2ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/src/ls2ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/Lista3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ls1ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ls1ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ls1ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ls1ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ls1ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ls1ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/ls1ex06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista1/lista1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/Lista1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista1/src/Lista2/ls1ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/ls1ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista1/src/Lista2/ls1ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/ls1ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista1/src/Lista2/ls1ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/ls1ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista1/src/Lista2/ls1ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/ls1ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista1/src/Lista2/ls1ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/ls1ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista1/src/Lista2/ls1ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/ls1ex06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista2/lista2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/Lista2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista2/src/Lista2/ls2ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ls2ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista2/src/Lista2/ls2ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ls2ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista2/src/Lista2/ls2ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ls2ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista2/src/Lista2/ls2ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ls2ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista2/src/Lista2/ls2ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ls2ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista2/src/Lista2/ls2ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/ls2ex06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +74,18 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/passo/IdeaProjects/exercicios/lista1/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/passo/IdeaProjects/exercicios/Lista3/src/Main.java&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\passo\IdeaProjects\exercicios\lista1\src" />
       <recent name="C:\Users\passo\IdeaProjects\exercicios" />
       <recent name="C:\Users\passo\IdeaProjects\exercicios\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ls2ex06" />
+      <recent name="" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -117,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695050048456</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercicios ls2">
+      <option name="closed" value="true" />
+      <created>1698417621745</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698417621745</updated>
+    </task>
+    <task id="LOCAL-00006" summary="alterações">
+      <option name="closed" value="true" />
+      <created>1698417924011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698417924011</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +154,8 @@
     <MESSAGE value="Exercicio#6" />
     <MESSAGE value="Exercicios #2 #3 #4" />
     <MESSAGE value="Exercicios #1 #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicios #1 #2" />
+    <MESSAGE value="Exercicios ls2" />
+    <MESSAGE value="alterações" />
+    <option name="LAST_COMMIT_MESSAGE" value="alterações" />
   </component>
 </project>

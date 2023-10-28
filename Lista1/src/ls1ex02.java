@@ -1,5 +1,3 @@
-package Lista2;
-
 public class ls1ex02 {
     public static void main(String[] args){
         double media1;
